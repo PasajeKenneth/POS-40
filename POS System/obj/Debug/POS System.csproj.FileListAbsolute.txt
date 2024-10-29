@@ -1,0 +1,80 @@
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\POS System.exe.config
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\POS System.exe
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\POS System.pdb
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.Form1.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.exe
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.pdb
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmBrandList.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmBrand.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmCategoryList.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmCategory.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmProduct.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmProductList.resources
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\MetroFramework.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.csproj.Up2Date
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmStockIn.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmSearchProductStockin.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmPOS.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmQty.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmLookUp.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmDiscount.resources
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmSettle.resources
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS_System.frmReceipt.resources
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Memory.Data.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Text.Json.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.ValueTuple.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Memory.Data.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Text.Json.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\System.ValueTuple.xml
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\EnvDTE.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\stdole.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\POS System\POS System\obj\Debug\POS System.exe.config
